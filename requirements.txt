@@ -1,0 +1,17 @@
+# Required External Libraries
+numpy
+matplotlib
+opencv-python
+pillow
+easyocr
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+torch
+torchvision
+timm
+tensorflow
+sentence-transformers
+tqdm
+joblib
